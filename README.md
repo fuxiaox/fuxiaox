@@ -3,6 +3,7 @@
 - 🌱 所掌握的编程语言：C语言，Python，Java，labview
 - 💞️ 对Linux和嵌入式略有了解
 - 📫 欢迎与我交流任何想法email：xfx0028@163.com
+- Blog：http://82.157.63.125/
 
 <!---
 fuxiaox/fuxiaox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
